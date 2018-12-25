@@ -1,4 +1,4 @@
-Reverse Proxy aggregartion API for data stored at S3
+Reverse Proxy aggregation API for data stored at S3
 =========
 
 
